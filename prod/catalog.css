@@ -349,6 +349,11 @@ body {
   color: #000000;
   opacity: 0.3;
 }
+.header .headerMenu li:nth-child(3) .headerLinkItem {
+  text-decoration: underline;
+  color: red;
+}
+
 .header .headerCart {
   margin: 0 auto;
 }
